@@ -330,6 +330,7 @@ const COUNTRIES = [
     {"VZ": "Venezuela, Republic of"},
     {"VC": "Veracruz"},
     {"VT": "Vermont"},
+    {"VN": "Vietnam"},
     {"VI": "Virgin Islands (U.S.)"},
     {"VA": "Virginia"},
     {"WK": "Wake Island"},
